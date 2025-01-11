@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         My Test Script
 // @namespace    http://tampermonkey.net/
-// @version      1.0   // Aumenta este número cada vez que hagas un cambio
+// @version      1.0  
 // @description  Script de prueba para ver actualizaciones automáticas
-// @updateURL    https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/tamper-test.user.js
-// @downloadURL  https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/tamper-test.user.js
+// @updateURL    https://raw.githubusercontent.com/Kinotest/Kinotest/main/tamper-test.user.js
+// @downloadURL  https://raw.githubusercontent.com/Kinotest/Kinotest/main/tamper-test.user.js
 // @match        http://*/*
 // @match        https://*/*
 // @run-at       document-idle
