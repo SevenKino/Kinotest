@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         My Test Script
 // @namespace    http://tampermonkey.net/
-// @version      1.1  
+// @version      2
 // @description  Script de prueba para ver actualizaciones automáticas
 // @updateURL    https://raw.githubusercontent.com/SevenKino/Kinotest/main/TEST.user.js
 // @downloadURL  https://raw.githubusercontent.com/SevenKino/Kinotest/main/TEST.user.js
@@ -13,5 +13,5 @@
 
 (function() {
     'use strict';
-    console.log("Hola, soy la versión 1.0 de My Test Script TESTTTTTTTTTTTTTTT!");
+    console.log("Hola, soy la versión 1.0 de My Test Script TESTTTTTTTTTTTTTTT TESTTTTTTTTTTTTTT TESTTTTTTTTTTTTTT TESTTTTTTTTTTTTTT TESTTTTTTTTTTTTTT!");
 })();
